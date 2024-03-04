@@ -1,0 +1,18 @@
+{
+   "searchCriteria":[
+      {
+         "lookupTypeId":2,
+         "lookupId":[
+        44
+         ]
+      }
+   ],
+   "checkIn": "2023-02-12",
+   "checkOut": "2023-02-13",
+   "sortBy1":"price",
+   "sortOrder1":"ASC",
+   "searchText1":"1687",
+   "pageNo":1,
+   "pageSize":1000,
+   "is3DView":true
+}
